@@ -264,14 +264,14 @@ private void playNext() {
      */
     public static void main(String args[]) {
        List<String> songs = new ArrayList<>();
-       
+
+        //Here add songs according to your choices
         songs.add("C:\\Users\\Dell\\Downloads\\roop tera.mp3");
         songs.add("C:\\Users\\Dell\\Downloads\\one direction.mp3");
         songs.add("C:\\Users\\Dell\\Downloads\\give me some sunshine.mp3");
         songs.add("C:\\Users\\Dell\\Downloads\\uthe kadam.mp3");
         songs.add("C:\\Users\\Dell\\Downloads\\life goe on.mp3");
         songs.add("C:\\Users\\Dell\\Downloads\\all is well.mp3");
-        songs.add("C:\\Users\\Dell\\Downloads\\tadow.unknown");
         songs.add("C:\\Users\\Dell\\Downloads\\Auld Lang Syne (Instrumental) - Jingle Punks.mp3");
        
         
